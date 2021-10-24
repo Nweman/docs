@@ -1,4 +1,4 @@
----
+---News
 title: Configuring package ecosystem support for your enterprise
 intro: 'You can configure {% data variables.product.prodname_registry %} for your enterprise by globally enabling or disabling individual package ecosystems on your enterprise, including Docker, RubyGems, npm, Apache Maven, Gradle, or NuGet. Learn about other configuration requirements to support specific package ecosystems.'
 redirect_from:
